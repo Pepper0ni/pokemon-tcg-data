@@ -1,0 +1,1087 @@
+[
+  {
+    "name": "Gardevoir V Battle Deck",
+    "cards": [
+      {
+        "id": "swsh3-70",
+        "name": "Snubbull",
+        "count": 3
+      },
+      {
+        "id": "swsh3-71",
+        "name": "Granbull",
+        "count": 2
+      },
+      {
+        "id": "swsh2-158",
+        "name": "Dan",
+        "count": 2
+      },
+      {
+        "id": "swsh1-164",
+        "name": "Great Ball",
+        "count": 2
+      },
+      {
+        "id": "swsh1-165",
+        "name": "Hop",
+        "count": 4
+      },
+      {
+        "id": "swsh2-167",
+        "name": "Sonia",
+        "count": 1
+      },
+      {
+        "id": "swsh1-183",
+        "name": "Switch",
+        "count": 2
+      },
+      {
+        "id": "swsh35-66",
+        "name": "Suspicious Food Tin",
+        "count": 1
+      },
+      {
+        "id": "sm1-168",
+        "name": "Psychic Energy",
+        "count": 18
+      },
+      {
+        "id": "swsh45-59",
+        "name": "Gym Trainer",
+        "count": 2
+      },
+      {
+        "id": "swsh1-177",
+        "name": "Potion",
+        "count": 1
+      },
+      {
+        "id": "swsh4-64",
+        "name": "Clefable",
+        "count": 2
+      },
+      {
+        "id": "swsh2-89",
+        "name": "Dreepy",
+        "count": 3
+      },
+      {
+        "id": "swsh2-90",
+        "name": "Drakloak",
+        "count": 3
+      },
+      {
+        "id": "swsh2-91",
+        "name": "Dragapult",
+        "count": 2
+      },
+      {
+        "id": "swsh4-63",
+        "name": "Clefairy",
+        "count": 2
+      },
+      {
+        "id": "swsh2-148",
+        "name": "Hawlucha",
+        "count": 2
+      },
+      {
+        "id": "swsh1-163",
+        "name": "Evolution Incense",
+        "count": 2
+      },
+      {
+        "id": "swsh5-129",
+        "name": "Level Ball",
+        "count": 2
+      },
+      {
+        "id": "swsh1-157",
+        "name": "Bede",
+        "count": 1
+      },
+      {
+        "id": "swsh45-60",
+        "name": "Professor's Research",
+        "count": 2
+      },
+      {
+        "id": "swshp-SWSH105",
+        "name": "Gardevoir V",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Venusaur V Battle Deck",
+    "cards": [
+      {
+        "id": "swshp-SWSH100",
+        "name": "Venusaur V",
+        "count": 1
+      },
+      {
+        "id": "swsh45-2",
+        "name": "Yanmega",
+        "count": 2
+      },
+      {
+        "id": "swsh45-1",
+        "name": "Yanma",
+        "count": 3
+      },
+      {
+        "id": "swsh4-18",
+        "name": "Gogoat",
+        "count": 2
+      },
+      {
+        "id": "swsh4-17",
+        "name": "Skiddo",
+        "count": 3
+      },
+      {
+        "id": "swsh45-15",
+        "name": "Eldegoss",
+        "count": 1
+      },
+      {
+        "id": "swsh45-14",
+        "name": "Gossifleur",
+        "count": 2
+      },
+      {
+        "id": "swsh1-8",
+        "name": "Durant",
+        "count": 3
+      },
+      {
+        "id": "swsh2-6",
+        "name": "Heracross",
+        "count": 2
+      },
+      {
+        "id": "swsh45-56",
+        "name": "Indeedee",
+        "count": 2
+      },
+      {
+        "id": "swsh1-157",
+        "name": "Bede",
+        "count": 2
+      },
+      {
+        "id": "swsh2-158",
+        "name": "Dan",
+        "count": 4
+      },
+      {
+        "id": "swsh1-163",
+        "name": "Evolution Incense",
+        "count": 1
+      },
+      {
+        "id": "swsh1-164",
+        "name": "Great Ball",
+        "count": 2
+      },
+      {
+        "id": "swsh45-59",
+        "name": "Gym Trainer",
+        "count": 2
+      },
+      {
+        "id": "swsh1-165",
+        "name": "Hop",
+        "count": 4
+      },
+      {
+        "id": "swsh1-175",
+        "name": "Pokémon Catcher",
+        "count": 1
+      },
+      {
+        "id": "cp-61",
+        "name": "Potion",
+        "count": 2
+      },
+      {
+        "id": "swsh2-167",
+        "name": "Sonia",
+        "count": 1
+      },
+      {
+        "id": "swsh1-183",
+        "name": "Switch",
+        "count": 2
+      },
+      {
+        "id": "sm1-164",
+        "name": "Grass Energy",
+        "count": 18
+      }
+    ]
+  },
+  {
+    "name": "Corviknight V Battle Deck",
+    "cards": [
+      {
+        "id": "swshp-SWSH200",
+        "name": "Corviknight V",
+        "count": 1
+      },
+      {
+        "id": "swsh4-121",
+        "name": "Dialga",
+        "count": 2
+      },
+      {
+        "id": "swsh6-114",
+        "name": "Cobalion",
+        "count": 2
+      },
+      {
+        "id": "swsh1-131",
+        "name": "Ferrothorn",
+        "count": 3
+      },
+      {
+        "id": "swsh1-130",
+        "name": "Ferroseed",
+        "count": 4
+      },
+      {
+        "id": "swsh2-127",
+        "name": "Galarian Perrserker",
+        "count": 3
+      },
+      {
+        "id": "swsh4-112",
+        "name": "Galarian Meowth",
+        "count": 4
+      },
+      {
+        "id": "swsh8-186",
+        "name": "Klefki",
+        "count": 2
+      },
+      {
+        "id": "swsh8-226",
+        "name": "Bug Catcher",
+        "count": 2
+      },
+      {
+        "id": "swsh8-228",
+        "name": "Cook",
+        "count": 1
+      },
+      {
+        "id": "swsh5-125",
+        "name": "Escape Rope",
+        "count": 2
+      },
+      {
+        "id": "swsh1-163",
+        "name": "Evolution Incense",
+        "count": 2
+      },
+      {
+        "id": "swsh1-164",
+        "name": "Great Ball",
+        "count": 4
+      },
+      {
+        "id": "swsh45-59",
+        "name": "Gym Trainer",
+        "count": 2
+      },
+      {
+        "id": "swsh1-165",
+        "name": "Hop",
+        "count": 4
+      },
+      {
+        "id": "swsh1-177",
+        "name": "Potion",
+        "count": 1
+      },
+      {
+        "id": "swsh8-240",
+        "name": "Shauna",
+        "count": 2
+      },
+      {
+        "id": "swsh2-167",
+        "name": "Sonia",
+        "count": 1
+      },
+      {
+        "id": "sm1-171",
+        "name": "Metal Energy",
+        "count": 18
+      }
+    ]
+  },
+  {
+    "name": "Rayquaza V Battle Deck",
+    "cards": [
+      {
+        "id": "swshp-SWSH147",
+        "name": "Rayquaza V",
+        "count": 1
+      },
+      {
+        "id": "swsh3-27",
+        "name": "Simisear",
+        "count": 2
+      },
+      {
+        "id": "swsh3-26",
+        "name": "Pansear",
+        "count": 3
+      },
+      {
+        "id": "swsh4-52",
+        "name": "Manectric",
+        "count": 1
+      },
+      {
+        "id": "swsh4-51",
+        "name": "Electrike",
+        "count": 2
+      },
+      {
+        "id": "swsh6-24",
+        "name": "Volcarona",
+        "count": 2
+      },
+      {
+        "id": "swsh6-52",
+        "name": "Thundurus",
+        "count": 2
+      },
+      {
+        "id": "swsh6-23",
+        "name": "Larvesta",
+        "count": 3
+      },
+      {
+        "id": "swsh7-53",
+        "name": "Lanturn",
+        "count": 2
+      },
+      {
+        "id": "swsh7-52",
+        "name": "Chinchou",
+        "count": 3
+      },
+      {
+        "id": "swsh1-160",
+        "name": "Energy Retrieval",
+        "count": 1
+      },
+      {
+        "id": "swsh1-161",
+        "name": "Energy Search",
+        "count": 2
+      },
+      {
+        "id": "swsh1-163",
+        "name": "Evolution Incense",
+        "count": 2
+      },
+      {
+        "id": "swsh1-164",
+        "name": "Great Ball",
+        "count": 4
+      },
+      {
+        "id": "swsh1-165",
+        "name": "Hop",
+        "count": 4
+      },
+      {
+        "id": "swsh1-177",
+        "name": "Potion",
+        "count": 2
+      },
+      {
+        "id": "swsh2-158",
+        "name": "Dan",
+        "count": 2
+      },
+      {
+        "id": "swsh2-167",
+        "name": "Sonia",
+        "count": 1
+      },
+      {
+        "id": "swsh5-125",
+        "name": "Escape Rope",
+        "count": 2
+      },
+      {
+        "id": "swsh7-149",
+        "name": "Gordie",
+        "count": 1
+      },
+      {
+        "id": "swsh45-59",
+        "name": "Gym Trainer",
+        "count": 2
+      },
+      {
+        "id": "sm1-165",
+        "name": "Fire Energy",
+        "count": 8
+      },
+      {
+        "id": "sm1-167",
+        "name": "Lightning Energy",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "Blastoise V Battle Deck",
+    "cards": [
+      {
+        "id": "swshp-SWSH101",
+        "name": "Blastoise V",
+        "count": 1
+      },
+      {
+        "id": "swsh1-61",
+        "name": "Drednaw",
+        "count": 2
+      },
+      {
+        "id": "swsh45-26",
+        "name": "Chewtle",
+        "count": 3
+      },
+      {
+        "id": "cp-12",
+        "name": "Sharpedo",
+        "count": 2
+      },
+      {
+        "id": "cp-11",
+        "name": "Carvanha",
+        "count": 4
+      },
+      {
+        "id": "swsh2-53",
+        "name": "Barraskewda",
+        "count": 1
+      },
+      {
+        "id": "swsh2-52",
+        "name": "Arrokuda",
+        "count": 2
+      },
+      {
+        "id": "swsh45-25",
+        "name": "Volcanion",
+        "count": 2
+      },
+      {
+        "id": "swsh45-28",
+        "name": "Cramorant",
+        "count": 2
+      },
+      {
+        "id": "swsh3-50",
+        "name": "Wishiwashi",
+        "count": 2
+      },
+      {
+        "id": "swsh1-157",
+        "name": "Bede",
+        "count": 2
+      },
+      {
+        "id": "swsh2-156",
+        "name": "Capacious Bucket",
+        "count": 2
+      },
+      {
+        "id": "swsh2-158",
+        "name": "Dan",
+        "count": 4
+      },
+      {
+        "id": "swsh1-160",
+        "name": "Energy Retrieval",
+        "count": 1
+      },
+      {
+        "id": "swsh1-163",
+        "name": "Evolution Incense",
+        "count": 1
+      },
+      {
+        "id": "swsh1-164",
+        "name": "Great Ball",
+        "count": 2
+      },
+      {
+        "id": "swsh45-59",
+        "name": "Gym Trainer",
+        "count": 2
+      },
+      {
+        "id": "swsh1-165",
+        "name": "Hop",
+        "count": 4
+      },
+      {
+        "id": "swsh2-167",
+        "name": "Sonia",
+        "count": 1
+      },
+      {
+        "id": "swsh1-183",
+        "name": "Switch",
+        "count": 2
+      },
+      {
+        "id": "sm1-166",
+        "name": "Water Energy",
+        "count": 18
+      }
+    ]
+  },
+  {
+    "name": "Lycanroc V Battle Deck",
+    "cards": [
+      {
+        "id": "swshp-SWSH199",
+        "name": "Lycanroc V",
+        "count": 1
+      },
+      {
+        "id": "swsh1-100",
+        "name": "Sudowoodo",
+        "count": 2
+      },
+      {
+        "id": "swsh2-95",
+        "name": "Galarian Sirfetchd",
+        "count": 3
+      },
+      {
+        "id": "swsh2-94",
+        "name": "Galarian Farfetchd",
+        "count": 4
+      },
+      {
+        "id": "swsh8-139",
+        "name": "Steelix",
+        "count": 2
+      },
+      {
+        "id": "swsh8-138",
+        "name": "Onix",
+        "count": 2
+      },
+      {
+        "id": "swsh6-77",
+        "name": "Dugtrio",
+        "count": 3
+      },
+      {
+        "id": "swsh6-76",
+        "name": "Diglett",
+        "count": 4
+      },
+      {
+        "id": "swsh8-226",
+        "name": "Bug Catcher",
+        "count": 2
+      },
+      {
+        "id": "swsh8-228",
+        "name": "Cook",
+        "count": 1
+      },
+      {
+        "id": "swsh5-125",
+        "name": "Escape Rope",
+        "count": 2
+      },
+      {
+        "id": "swsh1-163",
+        "name": "Evolution Incense",
+        "count": 2
+      },
+      {
+        "id": "swsh1-164",
+        "name": "Great Ball",
+        "count": 4
+      },
+      {
+        "id": "swsh45-59",
+        "name": "Gym Trainer",
+        "count": 2
+      },
+      {
+        "id": "swsh1-165",
+        "name": "Hop",
+        "count": 4
+      },
+      {
+        "id": "swsh1-177",
+        "name": "Potion",
+        "count": 1
+      },
+      {
+        "id": "swsh8-240",
+        "name": "Shauna",
+        "count": 2
+      },
+      {
+        "id": "swsh2-167",
+        "name": "Sonia",
+        "count": 1
+      },
+      {
+        "id": "sm1-169",
+        "name": "Fighting Energy",
+        "count": 18
+      }
+    ]
+  },
+  {
+    "name": "Noivern V Battle Deck",
+    "cards": [
+      {
+        "id": "swshp-SWSH148",
+        "name": "Noivern V",
+        "count": 1
+      },
+      {
+        "id": "swsh2-77",
+        "name": "Xatu",
+        "count": 2
+      },
+      {
+        "id": "swsh2-76",
+        "name": "Natu",
+        "count": 3
+      },
+      {
+        "id": "swsh2-87",
+        "name": "Alcremie",
+        "count": 2
+      },
+      {
+        "id": "swsh2-86",
+        "name": "Milcery",
+        "count": 3
+      },
+      {
+        "id": "swsh3-140",
+        "name": "Lugia",
+        "count": 2
+      },
+      {
+        "id": "swsh5-91",
+        "name": "Crobat",
+        "count": 2
+      },
+      {
+        "id": "swsh5-90",
+        "name": "Golbat",
+        "count": 3
+      },
+      {
+        "id": "swsh5-89",
+        "name": "Zubat",
+        "count": 3
+      },
+      {
+        "id": "swsh1-161",
+        "name": "Energy Search",
+        "count": 2
+      },
+      {
+        "id": "swsh1-163",
+        "name": "Evolution Incense",
+        "count": 2
+      },
+      {
+        "id": "swsh1-164",
+        "name": "Great Ball",
+        "count": 4
+      },
+      {
+        "id": "swsh1-165",
+        "name": "Hop",
+        "count": 4
+      },
+      {
+        "id": "swsh1-177",
+        "name": "Potion",
+        "count": 2
+      },
+      {
+        "id": "swsh2-158",
+        "name": "Dan",
+        "count": 1
+      },
+      {
+        "id": "swsh2-167",
+        "name": "Sonia",
+        "count": 1
+      },
+      {
+        "id": "swsh5-125",
+        "name": "Escape Rope",
+        "count": 2
+      },
+      {
+        "id": "swsh7-143",
+        "name": "Copycat",
+        "count": 4
+      },
+      {
+        "id": "swsh7-149",
+        "name": "Gordie",
+        "count": 1
+      },
+      {
+        "id": "sm1-168",
+        "name": "Psychic Energy",
+        "count": 8
+      },
+      {
+        "id": "sm1-170",
+        "name": "Darkness Energy",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "name": "Victini V Battle Deck",
+    "cards": [
+      {
+        "id": "swsh1-32",
+        "name": "Raboot",
+        "count": 3
+      },
+      {
+        "id": "swsh1-30",
+        "name": "Scorbunny",
+        "count": 3
+      },
+      {
+        "id": "swsh1-157",
+        "name": "Bede",
+        "count": 2
+      },
+      {
+        "id": "swsh2-158",
+        "name": "Dan",
+        "count": 2
+      },
+      {
+        "id": "swsh1-163",
+        "name": "Evolution Incense",
+        "count": 1
+      },
+      {
+        "id": "swsh1-164",
+        "name": "Great Ball",
+        "count": 2
+      },
+      {
+        "id": "swsh1-165",
+        "name": "Hop",
+        "count": 4
+      },
+      {
+        "id": "swsh2-161",
+        "name": "Milo",
+        "count": 2
+      },
+      {
+        "id": "swsh2-167",
+        "name": "Sonia",
+        "count": 1
+      },
+      {
+        "id": "swsh1-183",
+        "name": "Switch",
+        "count": 2
+      },
+      {
+        "id": "sm1-165",
+        "name": "Fire Energy",
+        "count": 18
+      },
+      {
+        "id": "swsh1-29",
+        "name": "Turtonator",
+        "count": 1
+      },
+      {
+        "id": "swsh1-147",
+        "name": "Cinccino",
+        "count": 1
+      },
+      {
+        "id": "swsh1-146",
+        "name": "Minccino",
+        "count": 2
+      },
+      {
+        "id": "swsh4-139",
+        "name": "Chatot",
+        "count": 2
+      },
+      {
+        "id": "swsh45-59",
+        "name": "Gym Trainer",
+        "count": 2
+      },
+      {
+        "id": "swsh1-34",
+        "name": "Cinderace",
+        "count": 2
+      },
+      {
+        "id": "swsh5-129",
+        "name": "Level Ball",
+        "count": 2
+      },
+      {
+        "id": "swsh1-22",
+        "name": "Vulpix",
+        "count": 3
+      },
+      {
+        "id": "swsh1-23",
+        "name": "Ninetales",
+        "count": 2
+      },
+      {
+        "id": "swsh45-60",
+        "name": "Professor's Research",
+        "count": 2
+      },
+      {
+        "id": "swshp-SWSH104",
+        "name": "Victini V",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "Galarian Sirfetch'd Theme Deck",
+    "cards": [
+      {
+        "id": "swsh3-98",
+        "name": "Galarian Sirfetchd",
+        "count": 3
+      },
+      {
+        "id": "swsh2-94",
+        "name": "Galarian Farfetchd",
+        "count": 3
+      },
+      {
+        "id": "swsh3-85",
+        "name": "Dugtrio",
+        "count": 2
+      },
+      {
+        "id": "swsh3-84",
+        "name": "Diglett",
+        "count": 3
+      },
+      {
+        "id": "swsh3-94",
+        "name": "Hippowdon",
+        "count": 2
+      },
+      {
+        "id": "swsh3-93",
+        "name": "Hippopotas",
+        "count": 3
+      },
+      {
+        "id": "swsh2-111",
+        "name": "Stonjourner",
+        "count": 2
+      },
+      {
+        "id": "swsh1-100",
+        "name": "Sudowoodo",
+        "count": 2
+      },
+      {
+        "id": "swsh3-97",
+        "name": "Passimian",
+        "count": 2
+      },
+      {
+        "id": "swsh1-157",
+        "name": "Bede",
+        "count": 2
+      },
+      {
+        "id": "swsh3-159",
+        "name": "Bird Keeper",
+        "count": 2
+      },
+      {
+        "id": "swsh1-164",
+        "name": "Great Ball",
+        "count": 2
+      },
+      {
+        "id": "swsh1-165",
+        "name": "Hop",
+        "count": 4
+      },
+      {
+        "id": "swsh1-175",
+        "name": "Pokémon Catcher",
+        "count": 2
+      },
+      {
+        "id": "swsh1-178",
+        "name": "Professor's Research",
+        "count": 2
+      },
+      {
+        "id": "swsh2-167",
+        "name": "Sonia",
+        "count": 2
+      },
+      {
+        "id": "swsh1-183",
+        "name": "Switch",
+        "count": 2
+      },
+      {
+        "id": "swsh3-172",
+        "name": "Turbo Patch",
+        "count": 2
+      },
+      {
+        "id": "sm1-169",
+        "name": "Fighting Energy",
+        "count": 18
+      }
+    ]
+  },
+  {
+    "name": "Galarian Darmanitan Theme Deck",
+    "cards": [
+      {
+        "id": "swsh3-44",
+        "name": "Galarian Darmanitan",
+        "count": 2
+      },
+      {
+        "id": "swsh3-28",
+        "name": "Galarian Darmanitan",
+        "count": 1
+      },
+      {
+        "id": "swsh3-43",
+        "name": "Galarian Darumaka",
+        "count": 3
+      },
+      {
+        "id": "swsh2-42",
+        "name": "Pelipper",
+        "count": 2
+      },
+      {
+        "id": "swsh2-41",
+        "name": "Wingull",
+        "count": 3
+      },
+      {
+        "id": "swsh3-49",
+        "name": "Beartic",
+        "count": 2
+      },
+      {
+        "id": "swsh3-48",
+        "name": "Cubchoo",
+        "count": 3
+      },
+      {
+        "id": "swsh3-50",
+        "name": "Wishiwashi",
+        "count": 2
+      },
+      {
+        "id": "swsh3-37",
+        "name": "Suicune",
+        "count": 2
+      },
+      {
+        "id": "swsh3-133",
+        "name": "Kangaskhan",
+        "count": 2
+      },
+      {
+        "id": "swsh1-157",
+        "name": "Bede",
+        "count": 2
+      },
+      {
+        "id": "swsh3-159",
+        "name": "Bird Keeper",
+        "count": 2
+      },
+      {
+        "id": "swsh2-156",
+        "name": "Capacious Bucket",
+        "count": 2
+      },
+      {
+        "id": "swsh1-164",
+        "name": "Great Ball",
+        "count": 2
+      },
+      {
+        "id": "swsh1-165",
+        "name": "Hop",
+        "count": 4
+      },
+      {
+        "id": "swsh1-178",
+        "name": "Professor's Research",
+        "count": 2
+      },
+      {
+        "id": "swsh2-167",
+        "name": "Sonia",
+        "count": 2
+      },
+      {
+        "id": "swsh1-183",
+        "name": "Switch",
+        "count": 2
+      },
+      {
+        "id": "swsh3-172",
+        "name": "Turbo Patch",
+        "count": 2
+      },
+      {
+        "id": "sm1-166",
+        "name": "Water Energy",
+        "count": 18
+      }
+    ]
+  },
+]

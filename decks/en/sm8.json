@@ -2,6 +2,8 @@
   {
     "id": "d-sm8-1",
     "name": "Storm Caller",
+    "releaseDate": "2018/11/02",
+    "format": "Legal",
     "types": [
       "Lightning"
     ],
@@ -172,6 +174,8 @@
   {
     "id": "d-sm8-2",
     "name": "Blazing Volcano",
+    "releaseDate": "2018/11/02",
+    "format": "Legal",
     "types": [
       "Fire",
       "Grass"

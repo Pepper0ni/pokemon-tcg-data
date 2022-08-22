@@ -2,6 +2,8 @@
   {
     "id": "d-xy9-1",
     "name": "Wave Slasher",
+    "releaseDate": "2016/02/03",
+    "format": "Legal",
     "types": [
       "Water",
       "Grass"
@@ -177,6 +179,8 @@
   {
     "id": "d-xy9-2",
     "name": "Electric Eye",
+    "releaseDate": "2016/02/03",
+    "format": "Legal",
     "types": [
       "Lightning",
       "Psychic"

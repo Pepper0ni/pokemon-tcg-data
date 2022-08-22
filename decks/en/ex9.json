@@ -2,6 +2,8 @@
   {
     "id": "d-ex9-1",
     "name": "Hydrobloom",
+    "releaseDate": "2005/05/09",
+    "format": "Legal",
     "types": [
       "Water",
       "Grass"
@@ -120,6 +122,8 @@
   {
     "id": "d-ex9-2",
     "name": "Wildfire",
+    "releaseDate": "2005/05/09",
+    "format": "Legal",
     "types": [
       "Lightning",
       "Fire"

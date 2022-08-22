@@ -2,6 +2,8 @@
   {
     "id": "d-bw2-1",
     "name": "Power Play",
+    "releaseDate": "2011/08/31",
+    "format": "Legal",
     "types": [
       "Fighting",
       "Water"
@@ -156,6 +158,8 @@
   {
     "id": "d-bw2-2",
     "name": "Toxic Tricks",
+    "releaseDate": "2011/08/31",
+    "format": "Legal",
     "types": [
       "Psychic",
       "Fire"

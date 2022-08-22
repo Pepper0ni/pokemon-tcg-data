@@ -2,6 +2,8 @@
   {
     "id": "d-dp7-1",
     "name": "Raging Sea",
+    "releaseDate": "2008/11/05",
+    "format": "Legal",
     "types": [
       "Water",
       "Grass"
@@ -118,6 +120,8 @@
   {
     "id": "d-dp7-2",
     "name": "Dark Rampage",
+    "releaseDate": "2008/11/05",
+    "format": "Legal",
     "types": [
       "Darkness",
       "Fighting"

@@ -2,6 +2,8 @@
   {
     "id": "d-ex6-1",
     "name": "FireRed",
+    "releaseDate": "2004/08/30",
+    "format": "Legal",
     "types": [
       "Water",
       "Fire"
@@ -108,6 +110,8 @@
   {
     "id": "d-ex6-2",
     "name": "LeafGreen",
+    "releaseDate": "2004/08/30",
+    "format": "Legal",
     "types": [
       "Grass",
       "Lightning"

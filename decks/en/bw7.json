@@ -2,6 +2,8 @@
   {
     "id": "d-bw7-1",
     "name": "Ice Shock",
+    "releaseDate": "2012/11/07",
+    "format": "Legal",
     "types": [
       "Water",
       "Lightning"
@@ -162,6 +164,8 @@
   {
     "id": "d-bw7-2",
     "name": "Cold Fire",
+    "releaseDate": "2012/11/07",
+    "format": "Legal",
     "types": [
       "Water",
       "Fire"
@@ -328,6 +332,8 @@
   {
     "id": "d-bw7-3",
     "name": "Red Genesect Collection",
+    "releaseDate": "2013/09/25",
+    "format": "Legal",
     "types": [
       "Grass",
       "Psychic"

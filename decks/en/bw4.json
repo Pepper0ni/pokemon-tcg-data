@@ -2,6 +2,8 @@
   {
     "id": "d-bw4-1",
     "name": "Explosive Edge",
+    "releaseDate": "2012/02/08",
+    "format": "Legal",
     "types": [
       "Fire",
       "Water"
@@ -162,6 +164,8 @@
   {
     "id": "d-bw4-2",
     "name": "Voltage Vortex",
+    "releaseDate": "2012/02/08",
+    "format": "Legal",
     "types": [
       "Lightning",
       "Darkness"

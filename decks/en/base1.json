@@ -2,129 +2,233 @@
   {
     "id": "d-base1-1",
     "name": "2-Player Starter Set",
+    "releaseDate": "1998/12/09",
+    "format": "Legal",
     "types": [
       "Fire",
       "Fighting",
       "Colorless"
+    ],
+    "subDecks": [
+      "d-base1-1a",
+      "d-base1-1b",
+      "d-base1-1c"
     ],
     "cards": [
       {
         "id": "base1-47",
         "name": "Diglett",
         "rarity": "Common",
-        "count": 3
+        "count": 3,
+        "subDecks": [
+          {
+            "d-base1-1a": 3
+          }
+        ]
       },
       {
         "id": "base1-52",
         "name": "Machop",
         "rarity": "Common",
-        "count": 4
+        "count": 4,
+        "subDecks": [
+          {
+            "d-base1-1a": 4
+          }
+        ]
       },
       {
         "id": "base1-34",
         "name": "Machoke",
         "rarity": "Uncommon",
-        "count": 2
+        "count": 2,
+        "subDecks": [
+          {
+            "d-base1-1a": 2
+          }
+        ]
       },
       {
         "id": "base1-8",
         "name": "Machamp",
         "rarity": "Rare Holo",
-        "count": 1
+        "count": 1,
+        "subDecks": [
+          {
+            "d-base1-1c": 1
+          }
+        ]
       },
       {
         "id": "base1-60",
         "name": "Ponyta",
         "rarity": "Common",
-        "count": 4
+        "count": 4,
+        "subDecks": [
+          {
+            "d-base1-1b": 4
+          }
+        ]
       },
       {
         "id": "base1-46",
         "name": "Charmander",
         "rarity": "Common",
-        "count": 4
+        "count": 4,
+        "subDecks": [
+          {
+            "d-base1-1b": 4
+          }
+        ]
       },
       {
         "id": "base1-24",
         "name": "Charmeleon",
         "rarity": "Uncommon",
-        "count": 2
+        "count": 2,
+        "subDecks": [
+          {
+            "d-base1-1b": 2
+          }
+        ]
       },
       {
         "id": "base1-28",
         "name": "Growlithe",
         "rarity": "Uncommon",
-        "count": 1
+        "count": 1,
+        "subDecks": [
+          {
+            "d-base1-1b": 1
+          }
+        ]
       },
       {
         "id": "base1-61",
         "name": "Rattata",
         "rarity": "Common",
-        "count": 2
+        "count": 2,
+        "subDecks": [
+          {
+            "d-base1-1a": 2
+          }
+        ]
       },
       {
         "id": "base1-26",
         "name": "Dratini",
         "rarity": "Uncommon",
-        "count": 1
+        "count": 1,
+        "subDecks": [
+          {
+            "d-base1-1a": 1
+          }
+        ]
       },
       {
         "id": "base1-91",
         "name": "Bill",
         "rarity": "Common",
-        "count": 1
+        "count": 1,
+        "subDecks": [
+          {
+            "d-base1-1b": 1
+          }
+        ]
       },
       {
         "id": "base1-92",
         "name": "Energy Removal",
         "rarity": "Common",
-        "count": 1
+        "count": 1,
+        "subDecks": [
+          {
+            "d-base1-1a": 1
+          }
+        ]
       },
       {
         "id": "base1-81",
         "name": "Energy Retrieval",
         "rarity": "Uncommon",
-        "count": 1
+        "count": 1,
+        "subDecks": [
+          {
+            "d-base1-1b": 1
+          }
+        ]
       },
       {
         "id": "base1-93",
         "name": "Gust of Wind",
         "rarity": "Common",
-        "count": 1
+        "count": 1,
+        "subDecks": [
+          {
+            "d-base1-1b": 1
+          }
+        ]
       },
       {
         "id": "base1-87",
         "name": "Pokédex",
         "rarity": "Uncommon",
-        "count": 1
+        "count": 1,
+        "subDecks": [
+          {
+            "d-base1-1a": 1
+          }
+        ]
       },
       {
         "id": "base1-94",
         "name": "Potion",
         "rarity": "Common",
-        "count": 2
+        "count": 2,
+        "subDecks": [
+          {
+            "d-base1-1a": 2
+          }
+        ]
       },
       {
         "id": "base1-95",
         "name": "Switch",
         "rarity": "Common",
-        "count": 2
+        "count": 2,
+        "subDecks": [
+          {
+            "d-base1-1b": 2
+          }
+        ]
       },
       {
         "id": "base1-97",
         "name": "Fighting Energy",
-        "count": 14
+        "count": 14,
+        "subDecks": [
+          {
+            "d-base1-1a": 14
+          }
+        ]
       },
       {
         "id": "base1-98",
         "name": "Fire Energy",
-        "count": 14
+        "count": 14,
+        "subDecks": [
+          {
+            "d-base1-1b": 14
+          }
+        ]
       }
     ]
   },
   {
     "id": "d-base1-2",
     "name": "Overgrowth",
+    "releaseDate": "1999/01/09",
+    "print": "Legal",
     "types": [
       "Water",
       "Grass"
@@ -229,6 +333,8 @@
   {
     "id": "d-base1-3",
     "name": "Zap!",
+    "releaseDate": "1999/01/09",
+    "print": "Legal",
     "types": [
       "Lightning",
       "Psychic"
@@ -351,6 +457,8 @@
   {
     "id": "d-base1-4",
     "name": "Brushfire",
+    "releaseDate": "1999/01/09",
+    "print": "Legal",
     "types": [
       "Fire",
       "Grass"
@@ -467,6 +575,8 @@
   {
     "id": "d-base1-5",
     "name": "Blackout",
+    "releaseDate": "1999/01/09",
+    "print": "Legal",
     "types": [
       "Water",
       "Fighting"

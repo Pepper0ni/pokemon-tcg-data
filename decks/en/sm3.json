@@ -2,6 +2,8 @@
   {
     "id": "d-sm3-1",
     "name": "Rock Steady",
+    "releaseDate": "2017/08/04",
+    "format": "Legal",
     "types": [
       "Fighting",
       "Psychic"
@@ -166,6 +168,8 @@
   {
     "id": "d-sm3-2",
     "name": "Luminous Frost",
+    "releaseDate": "2017/08/04",
+    "format": "Legal",
     "types": [
       "Water",
       "Fire"

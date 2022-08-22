@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Chespin Deck",
+    "cards": [
+      {
+        "id": "xy0-5",
+        "name": "Chesnaught",
+        "count": 2
+      },
+      {
+        "id": "xy0-4",
+        "name": "Quilladin",
+        "count": 4
+      },
+      {
+        "id": "xy0-3",
+        "name": "Chespin",
+        "count": 4
+      },
+      {
+        "id": "xy0-2",
+        "name": "Pansage",
+        "count": 2
+      },
+      {
+        "id": "xy0-1",
+        "name": "Weedle",
+        "count": 2
+      },
+      {
+        "id": "xy0-23",
+        "name": "Granbull",
+        "count": 2
+      },
+      {
+        "id": "xy0-22",
+        "name": "Snubbull",
+        "count": 4
+      },
+      {
+        "id": "xy0-24",
+        "name": "Swirlix",
+        "count": 2
+      },
+      {
+        "id": "xy0-26",
+        "name": "Snorlax",
+        "count": 1
+      },
+      {
+        "id": "xy0-27",
+        "name": "Miltank",
+        "count": 1
+      },
+      {
+        "id": "xy0-30",
+        "name": "Bunnelby",
+        "count": 2
+      },
+      {
+        "id": "xy0-37",
+        "name": "Potion",
+        "count": 2
+      },
+      {
+        "id": "xy0-38",
+        "name": "Switch",
+        "count": 2
+      },
+      {
+        "id": "xy0-35",
+        "name": "Poké Ball",
+        "count": 4
+      },
+      {
+        "id": "xy0-39",
+        "name": "Tierno",
+        "count": 2
+      },
+      {
+        "id": "xy1-132",
+        "name": "Grass Energy",
+        "count": 12
+      },
+      {
+        "id": "xy1-140",
+        "name": "Fairy Energy",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "name": "Froakie Deck",
+    "cards": [
+      {
+        "id": "xy0-14",
+        "name": "Greninja",
+        "count": 2
+      },
+      {
+        "id": "xy0-13",
+        "name": "Frogadier",
+        "count": 4
+      },
+      {
+        "id": "xy0-12",
+        "name": "Froakie",
+        "count": 4
+      },
+      {
+        "id": "xy0-11",
+        "name": "Panpour",
+        "count": 2
+      },
+      {
+        "id": "xy0-15",
+        "name": "Clauncher",
+        "count": 2
+      },
+      {
+        "id": "xy0-20",
+        "name": "Bisharp",
+        "count": 2
+      },
+      {
+        "id": "xy0-19",
+        "name": "Pawniard",
+        "count": 4
+      },
+      {
+        "id": "xy0-21",
+        "name": "Honedge",
+        "count": 2
+      },
+      {
+        "id": "xy0-25",
+        "name": "Farfetch'd",
+        "count": 2
+      },
+      {
+        "id": "xy0-28",
+        "name": "Skitty",
+        "count": 1
+      },
+      {
+        "id": "xy0-29",
+        "name": "Bidoof",
+        "count": 1
+      },
+      {
+        "id": "xy0-34",
+        "name": "Crushing Hammer",
+        "count": 2
+      },
+      {
+        "id": "xy0-38",
+        "name": "Switch",
+        "count": 2
+      },
+      {
+        "id": "xy0-35",
+        "name": "Poké Ball",
+        "count": 4
+      },
+      {
+        "id": "xy0-39",
+        "name": "Tierno",
+        "count": 2
+      },
+      {
+        "id": "xy1-134",
+        "name": "Water Energy",
+        "count": 12
+      },
+      {
+        "id": "xy1-139",
+        "name": "Metal Energy",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "name": "Fennekin Deck",
+    "cards": [
+      {
+        "id": "xy0-10",
+        "name": "Delphox",
+        "count": 2
+      },
+      {
+        "id": "xy0-9",
+        "name": "Braixen",
+        "count": 4
+      },
+      {
+        "id": "xy0-8",
+        "name": "Fennekin",
+        "count": 4
+      },
+      {
+        "id": "xy0-7",
+        "name": "Pansear",
+        "count": 2
+      },
+      {
+        "id": "xy0-6",
+        "name": "Slugma",
+        "count": 2
+      },
+      {
+        "id": "xy0-17",
+        "name": "Mightyena",
+        "count": 2
+      },
+      {
+        "id": "xy0-16",
+        "name": "Poochyena",
+        "count": 4
+      },
+      {
+        "id": "xy0-18",
+        "name": "Inkay",
+        "count": 2
+      },
+      {
+        "id": "xy0-31",
+        "name": "Fletchling",
+        "count": 2
+      },
+      {
+        "id": "xy0-32",
+        "name": "Furfrou",
+        "count": 1
+      },
+      {
+        "id": "xy0-33",
+        "name": "Furfrou",
+        "count": 1
+      },
+      {
+        "id": "xy0-38",
+        "name": "Switch",
+        "count": 2
+      },
+      {
+        "id": "xy0-36",
+        "name": "Pokémon Catcher",
+        "count": 2
+      },
+      {
+        "id": "xy0-35",
+        "name": "Poké Ball",
+        "count": 4
+      },
+      {
+        "id": "xy0-39",
+        "name": "Tierno",
+        "count": 2
+      },
+      {
+        "id": "xy1-133",
+        "name": "Fire Energy",
+        "count": 12
+      },
+      {
+        "id": "xy1-138",
+        "name": "Darkness Energy",
+        "count": 12
+      }
+    ]
+  },
+]

@@ -2,6 +2,8 @@
   {
     "id": "d-pl3-1",
     "name": "Ignition",
+    "releaseDate": "2009/08/19",
+    "format": "Legal",
     "types": [
       "Fire",
       "Grass"
@@ -118,6 +120,8 @@
   {
     "id": "d-pl3-2",
     "name": "Overflow",
+    "releaseDate": "2009/08/19",
+    "format": "Legal",
     "types": [
       "Water",
       "Psychic"

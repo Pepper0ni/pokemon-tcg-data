@@ -2,6 +2,8 @@
   {
     "id": "d-gym2-1",
     "name": "Sabrina",
+    "releaseDate": "2000/10/16",
+    "format": "Legal",
     "types": [
       "Psychic"
     ],
@@ -112,6 +114,8 @@
   {
     "id": "d-gym2-2",
     "name": "Koga",
+    "releaseDate": "2000/10/16",
+    "format": "Legal",
     "types": [
       "Grass"
     ],
@@ -222,6 +226,8 @@
   {
     "id": "d-gym2-3",
     "name": "Blaine",
+    "releaseDate": "2000/10/16",
+    "format": "Legal",
     "types": [
       "Fire"
     ],
@@ -344,6 +350,8 @@
   {
     "id": "d-gym2-4",
     "name": "Giovanni",
+    "releaseDate": "2000/10/16",
+    "format": "Legal",
     "types": [
       "Fighting"
     ],

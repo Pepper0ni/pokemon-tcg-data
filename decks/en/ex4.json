@@ -2,6 +2,8 @@
   {
     "id": "d-ex4-1",
     "name": "Team Magma",
+    "releaseDate": "2004/03/15",
+    "format": "Legal",
     "types": [
       "Fire",
       "Fighting"
@@ -114,6 +116,8 @@
   {
     "id": "d-ex4-2",
     "name": "Team Aqua",
+    "releaseDate": "2004/03/15",
+    "format": "Legal",
     "types": [
       "Water",
       "Lightning"

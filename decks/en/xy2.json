@@ -2,6 +2,8 @@
   {
     "id": "d-xy2-1",
     "name": "Brilliant Thunder",
+    "releaseDate": "2014/05/07",
+    "format": "Legal",
     "types": [
       "Fire",
       "Lightning"
@@ -166,6 +168,8 @@
   {
     "id": "d-xy2-2",
     "name": "Mystic Typhoon",
+    "releaseDate": "2014/05/07",
+    "format": "Legal",
     "types": [
       "Water",
       "Psychic"

@@ -2,6 +2,8 @@
   {
     "id": "d-xy10-1",
     "name": "Sky Guardian",
+    "releaseDate": "2016/05/02",
+    "format": "Legal",
     "types": [
       "Fire",
       "Fairy"
@@ -172,6 +174,8 @@
   {
     "id": "d-xy10-2",
     "name": "Battle Ruler",
+    "releaseDate": "2016/05/02",
+    "format": "Legal",
     "types": [
       "Fighting",
       "Grass"

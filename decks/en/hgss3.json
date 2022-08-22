@@ -2,6 +2,8 @@
   {
     "id": "d-hgss3-1",
     "name": "Daybreak",
+    "releaseDate": "2010/08/18",
+    "format": "Legal",
     "types": [
       "Psychic",
       "Grass"
@@ -162,6 +164,8 @@
   {
     "id": "d-hgss3-2",
     "name": "Nightfall",
+    "releaseDate": "2010/08/18",
+    "format": "Legal",
     "types": [
       "Darkness",
       "Metal"

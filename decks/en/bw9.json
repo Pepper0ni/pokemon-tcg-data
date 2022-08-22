@@ -2,6 +2,8 @@
   {
     "id": "d-bw9-1",
     "name": "Frost Ray",
+    "releaseDate": "2013/05/08",
+    "format": "Legal",
     "types": [
       "Water",
       "Lightning"
@@ -166,6 +168,8 @@
   {
     "id": "d-bw9-2",
     "name": "Psy Crusher",
+    "releaseDate": "2013/05/08",
+    "format": "Legal",
     "types": [
       "Psychic",
       "Grass"

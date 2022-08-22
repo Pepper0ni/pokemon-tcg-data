@@ -2,6 +2,8 @@
   {
     "id": "d-base5-1",
     "name": "Devastation",
+    "releaseDate": "2000/4/24",
+    "format": "Legal",
     "types": [
       "Grass",
       "Water"
@@ -124,6 +126,8 @@
   {
     "id": "d-base5-2",
     "name": "Trouble",
+    "releaseDate": "2000/4/24",
+    "format": "Legal",
     "types": [
       "Psychic",
       "Grass"

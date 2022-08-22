@@ -2,6 +2,8 @@
   {
     "id": "d-xy7-1",
     "name": "Iron Tide",
+    "releaseDate": "2015/08/12",
+    "format": "Legal",
     "types": [
       "Metal",
       "Water"
@@ -159,6 +161,8 @@
   {
     "id": "d-xy7-2",
     "name": "Stone Heart",
+    "releaseDate": "2015/08/12",
+    "format": "Legal",
     "types": [
       "Fighting",
       "Grass"

@@ -2,6 +2,8 @@
   {
     "id": "d-xy6-1",
     "name": "Aurora Blast",
+    "releaseDate": "2015/05/06",
+    "format": "Legal",
     "types": [
       "Water",
       "Fire"
@@ -190,6 +192,8 @@
   {
     "id": "d-xy6-2",
     "name": "Storm Rider",
+    "releaseDate": "2015/05/06",
+    "format": "Legal",
     "types": [
       "Lightning",
       "Grass"

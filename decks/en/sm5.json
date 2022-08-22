@@ -2,6 +2,8 @@
   {
     "id": "d-sm5-1",
     "name": "Mach Strike",
+    "releaseDate": "2018/02/02",
+    "format": "Legal",
     "types": [
       "Fighting"
     ],
@@ -160,6 +162,8 @@
   {
     "id": "d-sm5-2",
     "name": "Imperial Command",
+    "releaseDate": "2018/02/02",
+    "format": "Legal",
     "types": [
       "Water"
     ],

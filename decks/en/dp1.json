@@ -2,6 +2,8 @@
   {
     "id": "d-dp1-1",
     "name": "Terra Firma",
+    "releaseDate": "2007/05/23",
+    "format": "Legal",
     "types": [
       "Grass",
       "Darkness"
@@ -120,6 +122,8 @@
   {
     "id": "d-dp1-2",
     "name": "Inferno Zone",
+    "releaseDate": "2007/05/23",
+    "format": "Legal",
     "types": [
       "Fire",
       "Fighting"
@@ -238,6 +242,8 @@
   {
     "id": "d-dp1-3",
     "name": "Royal Frost",
+    "releaseDate": "2007/05/23",
+    "format": "Legal",
     "types": [
       "Water",
       "Metal"

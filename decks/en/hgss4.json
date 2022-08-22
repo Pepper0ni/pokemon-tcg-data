@@ -2,6 +2,8 @@
   {
     "id": "d-hgss4-1",
     "name": "Verdant Frost",
+    "releaseDate": "2010/11/03",
+    "format": "Legal",
     "types": [
       "Grass",
       "Water"
@@ -162,6 +164,8 @@
   {
     "id": "d-hgss4-2",
     "name": "Royal Guard",
+    "releaseDate": "2010/11/03",
+    "format": "Legal",
     "types": [
       "Psychic",
       "Fighting"

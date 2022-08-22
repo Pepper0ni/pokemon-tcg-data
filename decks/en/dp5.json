@@ -2,6 +2,8 @@
   {
     "id": "d-dp5-1",
     "name": "Forest Force",
+    "releaseDate": "2008/05/21",
+    "format": "Legal",
     "types": [
       "Grass",
       "Psychic"
@@ -118,6 +120,8 @@
   {
     "id": "d-dp5-2",
     "name": "Polar Frost",
+    "releaseDate": "2008/05/21",
+    "format": "Legal",
     "types": [
       "Water",
       "Lightning"

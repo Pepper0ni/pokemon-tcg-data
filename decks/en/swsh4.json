@@ -1,0 +1,207 @@
+[
+  {
+    "name": "Drednaw Theme Deck",
+    "cards": [
+      {
+        "id": "swsh4-39",
+        "name": "Drednaw",
+        "count": 3
+      },
+      {
+        "id": "swsh4-38",
+        "name": "Chewtle",
+        "count": 3
+      },
+      {
+        "id": "swsh4-35",
+        "name": "Samurott",
+        "count": 2
+      },
+      {
+        "id": "swsh4-34",
+        "name": "Dewott",
+        "count": 3
+      },
+      {
+        "id": "swsh4-33",
+        "name": "Oshawott",
+        "count": 3
+      },
+      {
+        "id": "swsh4-42",
+        "name": "Barraskewda",
+        "count": 1
+      },
+      {
+        "id": "swsh4-41",
+        "name": "Arrokuda",
+        "count": 3
+      },
+      {
+        "id": "swsh4-40",
+        "name": "Cramorant",
+        "count": 2
+      },
+      {
+        "id": "swsh3-50",
+        "name": "Wishiwashi",
+        "count": 2
+      },
+      {
+        "id": "swsh1-157",
+        "name": "Bede",
+        "count": 2
+      },
+      {
+        "id": "swsh2-158",
+        "name": "Dan",
+        "count": 2
+      },
+      {
+        "id": "swsh1-163",
+        "name": "Evolution Incense",
+        "count": 1
+      },
+      {
+        "id": "swsh1-164",
+        "name": "Great Ball",
+        "count": 2
+      },
+      {
+        "id": "swsh1-165",
+        "name": "Hop",
+        "count": 4
+      },
+      {
+        "id": "swsh4-157",
+        "name": "Nessa",
+        "count": 3
+      },
+      {
+        "id": "swsh1-178",
+        "name": "Professor's Research",
+        "count": 2
+      },
+      {
+        "id": "swsh2-167",
+        "name": "Sonia",
+        "count": 2
+      },
+      {
+        "id": "swsh1-183",
+        "name": "Switch",
+        "count": 2
+      },
+      {
+        "id": "sm1-166",
+        "name": "Water Energy",
+        "count": 18
+      }
+    ]
+  },
+  {
+    "name": "Charizard Theme Deck",
+    "cards": [
+      {
+        "id": "swsh4-25",
+        "name": "Charizard",
+        "count": 2
+      },
+      {
+        "id": "swsh4-24",
+        "name": "Charmeleon",
+        "count": 3
+      },
+      {
+        "id": "swsh4-23",
+        "name": "Charmander",
+        "count": 3
+      },
+      {
+        "id": "swsh4-7",
+        "name": "Yanmega",
+        "count": 2
+      },
+      {
+        "id": "swsh4-6",
+        "name": "Yanma",
+        "count": 3
+      },
+      {
+        "id": "swsh4-28",
+        "name": "Magcargo",
+        "count": 2
+      },
+      {
+        "id": "swsh4-27",
+        "name": "Slugma",
+        "count": 3
+      },
+      {
+        "id": "swsh1-100",
+        "name": "Sudowoodo",
+        "count": 2
+      },
+      {
+        "id": "swsh3-140",
+        "name": "Lugia",
+        "count": 1
+      },
+      {
+        "id": "swsh1-157",
+        "name": "Bede",
+        "count": 2
+      },
+      {
+        "id": "swsh2-158",
+        "name": "Dan",
+        "count": 2
+      },
+      {
+        "id": "swsh1-163",
+        "name": "Evolution Incense",
+        "count": 1
+      },
+      {
+        "id": "swsh1-164",
+        "name": "Great Ball",
+        "count": 2
+      },
+      {
+        "id": "swsh1-165",
+        "name": "Hop",
+        "count": 4
+      },
+      {
+        "id": "swsh4-154",
+        "name": "Leon",
+        "count": 2
+      },
+      {
+        "id": "swsh1-171",
+        "name": "Ordinary Rod",
+        "count": 2
+      },
+      {
+        "id": "swsh1-178",
+        "name": "Professor's Research",
+        "count": 2
+      },
+      {
+        "id": "swsh2-167",
+        "name": "Sonia",
+        "count": 2
+      },
+      {
+        "id": "swsh1-183",
+        "name": "Switch",
+        "count": 2
+      },
+      {
+        "id": "sm1-165",
+        "name": "Fire Energy",
+        "count": 18
+      }
+    ]
+  },
+]

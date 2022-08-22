@@ -2,6 +2,8 @@
   {
     "id": "d-ex13-1",
     "name": "FireMist",
+    "releaseDate": "2006/05/03",
+    "format": "Legal",
     "types": [
       "Fire",
       "Fighting"
@@ -118,6 +120,8 @@
   {
     "id": "d-ex13-2",
     "name": "FloodRush",
+    "releaseDate": "2006/05/03",
+    "format": "Legal",
     "types": [
       "Water",
       "Psychic"

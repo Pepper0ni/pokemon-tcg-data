@@ -2,6 +2,8 @@
   {
     "id": "d-ex14-1",
     "name": "Green Cyclone",
+    "releaseDate": "2006/08/30",
+    "format": "Legal",
     "types": [
       "Grass"
     ],
@@ -106,6 +108,8 @@
   {
     "id": "d-ex14-2",
     "name": "Storm Surge",
+    "releaseDate": "2006/08/30",
+    "format": "Legal",
     "types": [
       "Water",
       "Lightning"
@@ -222,6 +226,8 @@
   {
     "id": "d-ex14-3",
     "name": "Earth Shower",
+    "releaseDate": "2006/08/30",
+    "format": "Legal",
     "types": [
       "Water",
       "Fighting"

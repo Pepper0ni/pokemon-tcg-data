@@ -2,6 +2,8 @@
   {
     "id": "d-bw1-1",
     "name": "Green Tornado",
+    "releaseDate": "2011/4/25",
+    "format": "Legal",
     "types": [
       "Grass",
       "Psychic"
@@ -156,6 +158,8 @@
   {
     "id": "d-bw1-2",
     "name": "Red Frenzy",
+    "releaseDate": "2011/4/25",
+    "format": "Legal",
     "types": [
       "Fire",
       "Fighting"
@@ -296,6 +300,8 @@
   {
     "id": "d-bw1-3",
     "name": "Blue Assault",
+    "releaseDate": "2011/4/25",
+    "format": "Legal",
     "types": [
       "Water",
       "Lightning"

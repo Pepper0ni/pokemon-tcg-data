@@ -2,6 +2,8 @@
   {
     "id": "d-xy3-1",
     "name": "Enchanted Echo",
+    "releaseDate": "2014/08/13",
+    "format": "Legal",
     "types": [
       "Grass",
       "Fairy"
@@ -153,6 +155,8 @@
   {
     "id": "d-xy3-2",
     "name": "Dark Hammer",
+    "releaseDate": "2014/08/13",
+    "format": "Legal",
     "types": [
       "Darkness",
       "Fighting"

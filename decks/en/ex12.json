@@ -2,6 +2,8 @@
   {
     "id": "d-ex12-1",
     "name": "Groundbreaker",
+    "releaseDate": "2006/02/13",
+    "format": "Legal",
     "types": [
       "Grass",
       "Fighting"
@@ -118,6 +120,8 @@
   {
     "id": "d-ex12-2",
     "name": "Shadowquake",
+    "releaseDate": "2006/02/13",
+    "format": "Legal",
     "types": [
       "Water",
       "Psychic"

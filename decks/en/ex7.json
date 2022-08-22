@@ -2,6 +2,8 @@
   {
     "id": "d-ex7-1",
     "name": "Jessie",
+    "releaseDate": "2004/11/08",
+    "format": "Legal",
     "types": [
       "Grass",
       "Psychic",
@@ -133,6 +135,8 @@
   {
     "id": "d-ex7-2",
     "name": "James",
+    "releaseDate": "2004/11/08",
+    "format": "Legal",
     "types": [
       "Grass",
       "Water",

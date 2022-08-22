@@ -2,6 +2,8 @@
   {
     "id": "d-xy5-1",
     "name": "Ocean's Core",
+    "releaseDate": "2015/02/04",
+    "format": "Legal",
     "types": [
       "Water",
       "Fire"
@@ -171,6 +173,8 @@
   {
     "id": "d-xy5-2",
     "name": "Earth's Pulse",
+    "releaseDate": "2015/02/04",
+    "format": "Legal",
     "types": [
       "Fighting",
       "Lightning"

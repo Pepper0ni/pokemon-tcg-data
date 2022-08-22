@@ -2,6 +2,8 @@
   {
     "id": "d-pl2-1",
     "name": "Drill Point",
+    "releaseDate": "2009/05/16",
+    "format": "Legal",
     "types": [
       "Fighting",
       "Water"
@@ -118,6 +120,8 @@
   {
     "id": "d-pl2-2",
     "name": "Cutting Edge",
+    "releaseDate": "2009/05/16",
+    "format": "Legal",
     "types": [
       "Psychic",
       "Grass"

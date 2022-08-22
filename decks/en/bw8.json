@@ -2,6 +2,8 @@
   {
     "id": "d-bw8-1",
     "name": "Plasma Shadow",
+    "releaseDate": "2013/02/06",
+    "format": "Legal",
     "types": [
       "Psychic",
       "Grass"
@@ -162,6 +164,8 @@
   {
     "id": "d-bw8-2",
     "name": "Plasma Claw",
+    "releaseDate": "2013/02/06",
+    "format": "Legal",
     "types": [
       "Fire",
       "Water",

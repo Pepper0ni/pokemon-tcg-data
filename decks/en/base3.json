@@ -2,6 +2,8 @@
   {
     "id": "d-base3-1",
     "name": "LockDown",
+    "releaseDate": "1999/10/10",
+    "format": "Legal",
     "types": [
       "Fire",
       "Water"
@@ -112,6 +114,8 @@
   {
     "id": "d-base3-2",
     "name": "BodyGuard",
+    "releaseDate": "1999/10/10",
+    "format": "Legal",
     "types": [
       "Grass",
       "Fighting"

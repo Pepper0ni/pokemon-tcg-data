@@ -2,6 +2,8 @@
   {
     "id": "d-bw5-1",
     "name": "Raiders",
+    "releaseDate": "2012/05/09",
+    "format": "Legal",
     "types": [
       "Psychic",
       "Darkness"
@@ -162,6 +164,8 @@
   {
     "id": "d-bw5-2",
     "name": "Shadows",
+    "releaseDate": "2012/05/09",
+    "format": "Legal",
     "types": [
       "Darkness",
       "Water"

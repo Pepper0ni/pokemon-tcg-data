@@ -2,6 +2,8 @@
   {
     "id": "d-ex3-1",
     "name": "WindBlast",
+    "releaseDate": "2003/11/24",
+    "format": "Legal",
     "types": [
       "Grass",
       "Lightning"
@@ -108,6 +110,8 @@
   {
     "id": "d-ex3-2",
     "name": "FireFang",
+    "releaseDate": "2003/11/24",
+    "format": "Legal",
     "types": [
       "Fire",
       "Water"

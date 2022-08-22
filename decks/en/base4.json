@@ -2,129 +2,233 @@
   {
     "id": "d-base4-1",
     "name": "2-Player CD-ROM Starter Set",
+    "releaseDate": "2000/02/24",
+    "format": "Legal",
     "types": [
       "Fighting",
       "Water",
       "Colorless"
+    ],
+    "subDecks": [
+      "d-base4-1a",
+      "d-base4-1b",
+      "d-base4-1c"
     ],
     "cards": [
       {
         "id": "base4-71",
         "name": "Diglett",
         "rarity": "Common",
-        "count": 3
+        "count": 3,
+        "subDecks": [
+          {
+            "d-base4-1a": 3
+          }
+        ]
       },
       {
         "id": "base4-78",
         "name": "Machop",
         "rarity": "Common",
-        "count": 3
+        "count": 3,
+        "subDecks": [
+          {
+            "d-base4-1a": 3
+          }
+        ]
       },
       {
         "id": "base4-49",
         "name": "Machoke",
         "rarity": "Uncommon",
-        "count": 2
+        "count": 2,
+        "subDecks": [
+          {
+            "d-base4-1a": 2
+          }
+        ]
       },
       {
         "id": "base1-8",
         "name": "Machamp",
         "rarity": "Rare Holo",
-        "count": 1
+        "count": 1,
+        "subDecks": [
+          {
+            "d-base4-1c": 1
+          }
+        ]
       },
       {
         "id": "base4-61",
         "name": "Seel",
         "rarity": "Common",
-        "count": 2
+        "count": 2,
+        "subDecks": [
+          {
+            "d-base4-1b": 2
+          }
+        ]
       },
       {
         "id": "base4-76",
         "name": "Goldeen",
         "rarity": "Common",
-        "count": 4
+        "count": 4,
+        "subDecks": [
+          {
+            "d-base4-1b": 4
+          }
+        ]
       },
       {
         "id": "base4-60",
         "name": "Seaking",
         "rarity": "Uncommon",
-        "count": 2
+        "count": 2,
+        "subDecks": [
+          {
+            "d-base4-1b": 2
+          }
+        ]
       },
       {
         "id": "base4-95",
         "name": "Staryu",
         "rarity": "Common",
-        "count": 3
+        "count": 3,
+        "subDecks": [
+          {
+            "d-base4-1b": 3
+          }
+        ]
       },
       {
         "id": "base4-80",
         "name": "Meowth",
         "rarity": "Common",
-        "count": 2
+        "count": 2,
+        "subDecks": [
+          {
+            "d-base4-1a": 2
+          }
+        ]
       },
       {
         "id": "base4-72",
         "name": "Doduo",
         "rarity": "Common",
-        "count": 2
+        "count": 2,
+        "subDecks": [
+          {
+            "d-base4-1a": 2
+          }
+        ]
       },
       {
         "id": "base4-38",
         "name": "Dratini",
         "rarity": "Uncommon",
-        "count": 1
+        "count": 1,
+        "subDecks": [
+          {
+            "d-base4-1b": 1
+          }
+        ]
       },
       {
         "id": "base4-118",
         "name": "Bill",
         "rarity": "Common",
-        "count": 1
+        "count": 1,
+        "subDecks": [
+          {
+            "d-base4-1b": 1
+          }
+        ]
       },
       {
         "id": "base4-119",
         "name": "Energy Removal",
         "rarity": "Common",
-        "count": 2
+        "count": 2,
+        "subDecks": [
+          {
+            "d-base4-1a": 2
+          }
+        ]
       },
       {
         "id": "base4-120",
         "name": "Gust of Wind",
         "rarity": "Common",
-        "count": 1
+        "count": 1,
+        "subDecks": [
+          {
+            "d-base4-1b": 1
+          }
+        ]
       },
       {
         "id": "base4-121",
         "name": "Poké Ball",
         "rarity": "Common",
-        "count": 2
+        "count": 2,
+        "subDecks": [
+          {
+            "d-base4-1b": 2
+          }
+        ]
       },
       {
         "id": "base4-115",
         "name": "Pokédex",
         "rarity": "Uncommon",
-        "count": 1
+        "count": 1,
+        "subDecks": [
+          {
+            "d-base4-1a": 1
+          }
+        ]
       },
       {
         "id": "base4-123",
         "name": "Switch",
         "rarity": "Common",
-        "count": 1
+        "count": 1,
+        "subDecks": [
+          {
+            "d-base4-1a": 1
+          }
+        ]
       },
       {
         "id": "base4-125",
         "name": "Fighting Energy",
-        "count": 14
+        "count": 14,
+        "subDecks": [
+          {
+            "d-base4-1a": 14
+          }
+        ]
       },
       {
         "id": "base4-130",
         "name": "Water Energy",
-        "count": 14
+        "count": 14,
+        "subDecks": [
+          {
+            "d-base4-1b": 14
+          }
+        ]
       }
     ]
   },
   {
     "id": "d-base4-2",
     "name": "Grass Chopper",
+    "releaseDate": "2000/02/24",
+    "format": "Legal",
     "types": [
       "Fighting",
       "Grass"
@@ -235,6 +339,8 @@
   {
     "id": "d-base4-3",
     "name": "Hot Water",
+    "releaseDate": "2000/02/24",
+    "format": "Legal",
     "types": [
       "Fire",
       "Water"
@@ -345,6 +451,8 @@
   {
     "id": "d-base4-4",
     "name": "Lightning Bug",
+    "releaseDate": "2000/02/24",
+    "format": "Legal",
     "types": [
       "Lightning",
       "Grass"
@@ -455,6 +563,8 @@
   {
     "id": "d-base4-5",
     "name": "Psych Out",
+    "releaseDate": "2000/02/24",
+    "format": "Legal",
     "types": [
       "Psychic",
       "Water"
@@ -577,6 +687,8 @@
   {
     "id": "d-base4-6",
     "name": "Thunderstorm",
+    "releaseDate": "2000/09/01",
+    "format": "Legal",
     "types": [
       "Water",
       "Lightning"

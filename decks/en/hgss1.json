@@ -2,6 +2,8 @@
   {
     "id": "d-hgss1-1",
     "name": "Growth Clash",
+    "releaseDate": "2010/02/10",
+    "format": "Legal",
     "types": [
       "Grass",
       "Fighting"
@@ -126,6 +128,8 @@
   {
     "id": "d-hgss1-2",
     "name": "Ember Spark",
+    "releaseDate": "2010/02/10",
+    "format": "Legal",
     "types": [
       "Fire",
       "Lightning"
@@ -244,6 +248,8 @@
   {
     "id": "d-hgss1-3",
     "name": "Mind Flood",
+    "releaseDate": "2010/02/10",
+    "format": "Legal",
     "types": [
       "Water",
       "Psychic"

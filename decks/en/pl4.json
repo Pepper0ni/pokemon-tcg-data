@@ -2,6 +2,8 @@
   {
     "id": "d-pl4-1",
     "name": "Flamemaster",
+    "releaseDate": "2009/11/04",
+    "format": "Legal",
     "types": [
       "Fire",
       "Grass"
@@ -118,6 +120,8 @@
   {
     "id": "d-pl4-2",
     "name": "Stormshaper",
+    "releaseDate": "2009/11/04",
+    "format": "Legal",
     "types": [
       "Lightning",
       "Psychic"

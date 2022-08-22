@@ -2,6 +2,8 @@
   {
     "id": "d-dp6-1",
     "name": "Bombardment",
+    "releaseDate": "2008/08/20",
+    "format": "Legal",
     "types": [
       "Water",
       "Fighting"
@@ -124,6 +126,8 @@
   {
     "id": "d-dp6-2",
     "name": "Metal Surge",
+    "releaseDate": "2008/08/20",
+    "format": "Legal",
     "types": [
       "Metal",
       "Grass"

@@ -2,6 +2,8 @@
   {
     "id": "d-ex5-1",
     "name": "Wish Maker",
+    "releaseDate": "2004/06/14",
+    "format": "Legal",
     "types": [
       "Psychic",
       "Water"
@@ -126,6 +128,8 @@
   {
     "id": "d-ex5-2",
     "name": "Forest Guardian",
+    "releaseDate": "2004/06/14",
+    "format": "Legal",
     "types": [
       "Colorless",
       "Grass"

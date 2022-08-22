@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Towering Heights",
+    "cards": [
+      {
+        "id": "sm12-113",
+        "name": "Groudon",
+        "count": 2
+      },
+      {
+        "id": "sm11-114",
+        "name": "Garchomp",
+        "count": 2
+      },
+      {
+        "id": "sm11-113",
+        "name": "Gabite",
+        "count": 3
+      },
+      {
+        "id": "sm11-112",
+        "name": "Gible",
+        "count": 3
+      },
+      {
+        "id": "sm12-117",
+        "name": "Seismitoad",
+        "count": 2
+      },
+      {
+        "id": "sm12-116",
+        "name": "Palpitoad",
+        "count": 3
+      },
+      {
+        "id": "sm12-58",
+        "name": "Tympole",
+        "count": 3
+      },
+      {
+        "id": "sm12-125",
+        "name": "Passimian",
+        "count": 2
+      },
+      {
+        "id": "sm12-118",
+        "name": "Throh",
+        "count": 2
+      },
+      {
+        "id": "sm10-76",
+        "name": "Mew",
+        "count": 1
+      },
+      {
+        "id": "sm11-189",
+        "name": "Bug Catcher",
+        "count": 2
+      },
+      {
+        "id": "sm5-119",
+        "name": "Cynthia",
+        "count": 2
+      },
+      {
+        "id": "sm7-132",
+        "name": "Hau",
+        "count": 2
+      },
+      {
+        "id": "sm6-109",
+        "name": "Lady",
+        "count": 1
+      },
+      {
+        "id": "sm5-125",
+        "name": "Lillie",
+        "count": 2
+      },
+      {
+        "id": "sm9-152",
+        "name": "Pokemon Communication",
+        "count": 2
+      },
+      {
+        "id": "sm5-133",
+        "name": "Pokemon Fan Club",
+        "count": 2
+      },
+      {
+        "id": "sm7-147",
+        "name": "Switch",
+        "count": 2
+      },
+      {
+        "id": "sm7-148",
+        "name": "Tate Liza",
+        "count": 2
+      },
+      {
+        "id": "sm1-167",
+        "name": "Fighting Energy",
+        "count": 18
+      },
+      {
+        "id": "sm12-209",
+        "name": "Draw Energy",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "name": "Unseen Depths",
+    "cards": [
+      {
+        "id": "sm12-53",
+        "name": "Kyogre",
+        "count": 2
+      },
+      {
+        "id": "sm12-56",
+        "name": "Empoleon",
+        "count": 2
+      },
+      {
+        "id": "sm12-55",
+        "name": "Prinplup",
+        "count": 3
+      },
+      {
+        "id": "sm12-54",
+        "name": "Piplup",
+        "count": 3
+      },
+      {
+        "id": "sm12-41",
+        "name": "Golduck",
+        "count": 2
+      },
+      {
+        "id": "sm12-40",
+        "name": "Psyduck",
+        "count": 3
+      },
+      {
+        "id": "sm12-170",
+        "name": "Ambipom",
+        "count": 2
+      },
+      {
+        "id": "sm12-169",
+        "name": "Aipom",
+        "count": 3
+      },
+      {
+        "id": "sm10-53",
+        "name": "Pyukumuku",
+        "count": 2
+      },
+      {
+        "id": "sm12-57",
+        "name": "Phione",
+        "count": 1
+      },
+      {
+        "id": "sm5-119",
+        "name": "Cynthia",
+        "count": 2
+      },
+      {
+        "id": "sm7-132",
+        "name": "Hau",
+        "count": 2
+      },
+      {
+        "id": "sm5-125",
+        "name": "Lillie",
+        "count": 2
+      },
+      {
+        "id": "sm9-152",
+        "name": "Pokemon Communication",
+        "count": 2
+      },
+      {
+        "id": "sm5-133",
+        "name": "Pokemon Fan Club",
+        "count": 2
+      },
+      {
+        "id": "sm12-203",
+        "name": "Roller Skater",
+        "count": 2
+      },
+      {
+        "id": "sm7-147",
+        "name": "Switch",
+        "count": 2
+      },
+      {
+        "id": "sm7-148",
+        "name": "Tate Liza",
+        "count": 2
+      },
+      {
+        "id": "sm9-156",
+        "name": "Viridian Forest",
+        "count": 1
+      },
+      {
+        "id": "sm1-169",
+        "name": "Water Energy",
+        "count": 18
+      },
+      {
+        "id": "sm12-209",
+        "name": "Draw Energy",
+        "count": 2
+      }
+    ]
+  },
+]

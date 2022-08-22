@@ -2,6 +2,8 @@
   {
     "id": "d-ex16-1",
     "name": "Mind Game",
+    "releaseDate": "2007/02/14",
+    "format": "Legal",
     "types": [
       "Fighting",
       "Psychic"
@@ -124,6 +126,8 @@
   {
     "id": "d-ex16-2",
     "name": "Dark Blast",
+    "releaseDate": "2007/02/14",
+    "format": "Legal",
     "types": [
       "Darkness",
       "Fire"

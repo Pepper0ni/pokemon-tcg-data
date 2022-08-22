@@ -2,6 +2,8 @@
   {
     "id": "d-xy1-1",
     "name": "Resilient Life",
+    "releaseDate": "2014/02/05",
+    "format": "Legal",
     "types": [
       "Fairy",
       "Psychic"
@@ -177,6 +179,8 @@
   {
     "id": "d-xy1-2",
     "name": "Destruction Rush",
+    "releaseDate": "2014/02/05",
+    "format": "Legal",
     "types": [
       "Darkness",
       "Fighting"

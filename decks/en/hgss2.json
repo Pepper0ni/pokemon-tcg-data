@@ -2,6 +2,8 @@
   {
     "id": "d-hgss2-1",
     "name": "Chaos Control",
+    "releaseDate": "2010/05/12",
+    "format": "Legal",
     "types": [
       "Psychic",
       "Fighting",
@@ -127,6 +129,8 @@
   {
     "id": "d-hgss2-2",
     "name": "Steel Sentinel",
+    "releaseDate": "2010/05/12",
+    "format": "Legal",
     "types": [
       "Grass",
       "Fighting",

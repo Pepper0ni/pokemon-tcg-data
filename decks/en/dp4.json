@@ -2,6 +2,8 @@
   {
     "id": "d-dp4-1",
     "name": "Infinite Space",
+    "releaseDate": "2008/02/13",
+    "format": "Legal",
     "types": [
       "Water",
       "Psychic"
@@ -118,6 +120,8 @@
   {
     "id": "d-dp4-2",
     "name": "Eternal Time",
+    "releaseDate": "2008/02/13",
+    "format": "Legal",
     "types": [
       "Fighting",
       "Metal"
@@ -240,6 +244,8 @@
   {
     "id": "d-dp4-3",
     "name": "Endless Night",
+    "releaseDate": "2008/02/13",
+    "format": "Legal",
     "types": [
       "Grass",
       "Fire",

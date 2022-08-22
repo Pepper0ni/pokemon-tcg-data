@@ -2,6 +2,8 @@
   {
     "id": "d-sm2-1",
     "name": "Steel Sun",
+    "releaseDate": "2017/05/05",
+    "format": "Legal",
     "types": [
       "Metal",
       "Psychic"
@@ -166,6 +168,8 @@
   {
     "id": "d-sm2-2",
     "name": "Hidden Moon",
+    "releaseDate": "2017/05/05",
+    "format": "Legal",
     "types": [
       "Psychic",
       "Fire"

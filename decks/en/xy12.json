@@ -2,6 +2,8 @@
   {
     "id": "d-xy12-1",
     "name": "Pikachu Power",
+    "releaseDate": "2016/11/02",
+    "format": "Legal",
     "types": [
       "Lightning",
       "Grass"
@@ -166,6 +168,8 @@
   {
     "id": "d-xy12-2",
     "name": "Mewtwo Mayhem",
+    "releaseDate": "2016/11/02",
+    "format": "Legal",
     "types": [
       "Psychic",
       "Fighting"

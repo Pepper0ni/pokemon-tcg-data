@@ -2,6 +2,8 @@
   {
     "id": "d-bw6-1",
     "name": "DragonSnarl",
+    "releaseDate": "2012/08/15",
+    "format": "Legal",
     "types": [
       "Psychic",
       "Darkness"
@@ -168,6 +170,8 @@
   {
     "id": "d-bw6-2",
     "name": "Dragon Speed",
+    "releaseDate": "2012/08/15",
+    "format": "Legal",
     "types": [
       "Water",
       "Fighting"

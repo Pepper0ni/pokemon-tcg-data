@@ -2,6 +2,8 @@
   {
     "id": "d-neo4-1",
     "name": "Light",
+    "releaseDate": "2002/02/28",
+    "format": "Legal",
     "types": [
       "Fighting",
       "Water"
@@ -94,6 +96,8 @@
   {
     "id": "d-neo4-2",
     "name": "Dark",
+    "releaseDate": "2002/02/28",
+    "format": "Legal",
     "types": [
       "Fire",
       "Psychic"

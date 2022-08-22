@@ -2,6 +2,8 @@
   {
     "id": "d-swsh1-1",
     "name": "Rillaboom",
+    "releaseDate": "2020/02/07",
+    "format": "Legal",
     "types": [
       "Grass"
     ],
@@ -130,6 +132,8 @@
   {
     "id": "d-swsh1-2",
     "name": "Cinderace",
+    "releaseDate": "2020/02/07",
+    "format": "Legal",
     "types": [
       "Fire"
     ],
@@ -258,6 +262,8 @@
   {
     "id": "d-swsh1-3",
     "name": "Inteleon",
+    "releaseDate": "2020/02/07",
+    "format": "Legal",
     "types": [
       "Water"
     ],

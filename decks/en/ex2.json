@@ -2,6 +2,8 @@
   {
     "id": "d-ex2-1",
     "name": "Oasis",
+    "releaseDate": "2003/09/18",
+    "format": "Legal",
     "types": [
       "Water",
       "Fighting"
@@ -120,6 +122,8 @@
   {
     "id": "d-ex2-2",
     "name": "Caravan",
+    "releaseDate": "2003/09/18",
+    "format": "Legal",
     "types": [
       "Grass",
       "Fire"

@@ -2,6 +2,8 @@
   {
     "id": "d-ex11-1",
     "name": "Breakthrough",
+    "releaseDate": "2005/10/31",
+    "format": "Legal",
     "types": [
       "Grass",
       "Lightning",
@@ -125,6 +127,8 @@
   {
     "id": "d-ex11-2",
     "name": "Steeplechase",
+    "releaseDate": "2005/10/31",
+    "format": "Legal",
     "types": [
       "Fire",
       "Colorless",

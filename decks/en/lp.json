@@ -1,0 +1,217 @@
+[
+  {
+    "name": "Let's Play, Pikachu!",
+    "cards": [
+      {
+        "id": "sm4-31",
+        "name": "Alolan Raichu",
+        "count": 2
+      },
+      {
+        "id": "sl-28",
+        "name": "Pikachu",
+        "count": 2
+      },
+      {
+        "id": "sm4-30",
+        "name": "Pikachu",
+        "count": 2
+      },
+      {
+        "id": "sl-31",
+        "name": "Electrode",
+        "count": 2
+      },
+      {
+        "id": "sl-30",
+        "name": "Voltorb",
+        "count": 3
+      },
+      {
+        "id": "sm3-43",
+        "name": "Electivire",
+        "count": 2
+      },
+      {
+        "id": "sm5-43",
+        "name": "Electabuzz",
+        "count": 3
+      },
+      {
+        "id": "sm8-82",
+        "name": "Zebstrika",
+        "count": 1
+      },
+      {
+        "id": "sm8-81",
+        "name": "Blitzle",
+        "count": 2
+      },
+      {
+        "id": "sl-32",
+        "name": "Raikou",
+        "count": 2
+      },
+      {
+        "id": "sm9-123",
+        "name": "Pidgeotto",
+        "count": 1
+      },
+      {
+        "id": "sm9-121",
+        "name": "Pidgey",
+        "count": 2
+      },
+      {
+        "id": "sm5-119",
+        "name": "Cynthia",
+        "count": 1
+      },
+      {
+        "id": "sl-60",
+        "name": "Great Ball",
+        "count": 2
+      },
+      {
+        "id": "sm7-132",
+        "name": "Hau",
+        "count": 4
+      },
+      {
+        "id": "sl-64",
+        "name": "Pokemon Catcher",
+        "count": 1
+      },
+      {
+        "id": "sm5-133",
+        "name": "Pokemon Fan Club",
+        "count": 2
+      },
+      {
+        "id": "sm1-127",
+        "name": "Potion",
+        "count": 1
+      },
+      {
+        "id": "sm1-128",
+        "name": "Professor Kukui",
+        "count": 1
+      },
+      {
+        "id": "sm7-147",
+        "name": "Switch",
+        "count": 2
+      },
+      {
+        "id": "sm1-165",
+        "name": "Lightning Energy",
+        "count": 22
+      }
+    ]
+  },
+  {
+    "name": "Let's Play, Eevee!",
+    "cards": [
+      {
+        "id": "promo_sm-SM186",
+        "name": "Flareon",
+        "count": 2
+      },
+      {
+        "id": "sm8-155",
+        "name": "Eevee",
+        "count": 2
+      },
+      {
+        "id": "sm5-104",
+        "name": "Eevee",
+        "count": 2
+      },
+      {
+        "id": "dm-3",
+        "name": "Charizard",
+        "count": 2
+      },
+      {
+        "id": "sm3-19",
+        "name": "Charmeleon",
+        "count": 2
+      },
+      {
+        "id": "sm3-18",
+        "name": "Charmander",
+        "count": 3
+      },
+      {
+        "id": "sm3-23",
+        "name": "Simisear",
+        "count": 2
+      },
+      {
+        "id": "sm3-22",
+        "name": "Pansear",
+        "count": 3
+      },
+      {
+        "id": "sm8-38",
+        "name": "Moltres",
+        "count": 2
+      },
+      {
+        "id": "dm-55",
+        "name": "Kangaskhan",
+        "count": 2
+      },
+      {
+        "id": "sm5-102",
+        "name": "Lickitung",
+        "count": 2
+      },
+      {
+        "id": "sm5-119",
+        "name": "Cynthia",
+        "count": 1
+      },
+      {
+        "id": "sl-60",
+        "name": "Great Ball",
+        "count": 2
+      },
+      {
+        "id": "sm7-132",
+        "name": "Hau",
+        "count": 4
+      },
+      {
+        "id": "sl-64",
+        "name": "Pokemon Catcher",
+        "count": 1
+      },
+      {
+        "id": "sm5-133",
+        "name": "Pokemon Fan Club",
+        "count": 2
+      },
+      {
+        "id": "sm1-127",
+        "name": "Potion",
+        "count": 1
+      },
+      {
+        "id": "sm1-128",
+        "name": "Professor Kukui",
+        "count": 1
+      },
+      {
+        "id": "sm7-147",
+        "name": "Switch",
+        "count": 2
+      },
+      {
+        "id": "sm1-172",
+        "name": "Fire Energy",
+        "count": 22
+      }
+    ]
+  },
+]

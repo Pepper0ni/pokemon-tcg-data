@@ -2,6 +2,8 @@
   {
     "id": "d-sm7-1",
     "name": "Leaf Charge",
+    "releaseDate": "2018/08/03",
+    "format": "Legal",
     "types": [
       "Grass",
       "Lightning"
@@ -178,6 +180,8 @@
   {
     "id": "d-sm7-2",
     "name": "Hydro Fury",
+    "releaseDate": "2018/08/03",
+    "format": "Legal",
     "types": [
       "Water",
       "Fire"

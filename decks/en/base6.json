@@ -2,6 +2,8 @@
   {
     "id": "d-base6-1",
     "name": "Turmoil",
+    "releaseDate": "2002/5/24",
+    "format": "Legal",
     "types": [
       "Lightning",
       "Water"
@@ -112,6 +114,8 @@
   {
     "id": "d-base6-2",
     "name": "Lava",
+    "releaseDate": "2002/5/24",
+    "format": "Legal",
     "types": [
       "Fighting",
       "Fire"

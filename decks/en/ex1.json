@@ -2,6 +2,8 @@
   {
     "id": "d-ex1-1",
     "name": "Ruby",
+    "releaseDate": "2003/06/18",
+    "format": "Legal",
     "types": [
       "Fighting",
       "Fire"
@@ -120,6 +122,8 @@
   {
     "id": "d-ex1-2",
     "name": "Sapphire",
+    "releaseDate": "2003/06/18",
+    "format": "Legal",
     "types": [
       "Water",
       "Grass"

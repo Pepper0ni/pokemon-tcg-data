@@ -2,6 +2,8 @@
   {
     "id": "d-gym1-1",
     "name": "Brock",
+    "releaseDate": "2000/08/14",
+    "format": "Legal",
     "types": [
       "Fighting"
     ],
@@ -118,6 +120,8 @@
   {
     "id": "d-gym1-2",
     "name": "Misty",
+    "releaseDate": "2000/08/14",
+    "format": "Legal",
     "types": [
       "Water"
     ],
@@ -222,6 +226,8 @@
   {
     "id": "d-gym1-3",
     "name": "Lt. Surge",
+    "releaseDate": "2000/08/14",
+    "format": "Legal",
     "types": [
       "Lightning"
     ],
@@ -326,6 +332,8 @@
   {
     "id": "d-gym1-4",
     "name": "Erika",
+    "releaseDate": "2000/08/14",
+    "format": "Legal",
     "types": [
       "Grass"
     ],

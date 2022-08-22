@@ -2,6 +2,8 @@
   {
     "id": "d-bw10-1",
     "name": "Mind Wipe",
+    "releaseDate": "2013/08/14",
+    "format": "Legal",
     "types": [
       "Grass",
       "Psychic"
@@ -160,6 +162,8 @@
   {
     "id": "d-bw10-2",
     "name": "Solar Strike",
+    "releaseDate": "2013/08/14",
+    "format": "Legal",
     "types": [
       "Fire",
       "Water"

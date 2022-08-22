@@ -2,6 +2,8 @@
   {
     "id": "d-xy4-1",
     "name": "Burning Winds",
+    "releaseDate": "2014/11/05",
+    "format": "Legal",
     "types": [
       "Fire",
       "Grass"
@@ -183,6 +185,8 @@
   {
     "id": "d-xy4-2",
     "name": "Bolt Twister",
+    "releaseDate": "2014/11/05",
+    "format": "Legal",
     "types": [
       "Lightning",
       "Water"

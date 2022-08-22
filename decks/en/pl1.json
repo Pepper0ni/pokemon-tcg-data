@@ -2,6 +2,8 @@
   {
     "id": "d-pl1-1",
     "name": "Flourish",
+    "releaseDate": "2009/02/11",
+    "format": "Legal",
     "types": [
       "Grass",
       "Fire"
@@ -118,6 +120,8 @@
   {
     "id": "d-pl1-2",
     "name": "Rebellion",
+    "releaseDate": "2009/02/11",
+    "format": "Legal",
     "types": [
       "Psychic",
       "Fighting"

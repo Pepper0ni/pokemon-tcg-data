@@ -2,6 +2,8 @@
   {
     "id": "d-bw3-1",
     "name": "Fast Daze",
+    "releaseDate": "2011/11/16",
+    "format": "Legal",
     "types": [
       "Grass",
       "Fire"
@@ -156,6 +158,8 @@
   {
     "id": "d-bw3-2",
     "name": "Furious Knights",
+    "releaseDate": "2011/11/16",
+    "format": "Legal",
     "types": [
       "Metal",
       "Lightning"

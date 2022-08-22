@@ -2,6 +2,8 @@
   {
     "id": "d-ecard3-1",
     "name": "Eeveelution",
+    "releaseDate": "2003/05/12",
+    "format": "Legal",
     "types": [
       "Fire",
       "Water",
@@ -118,6 +120,8 @@
   {
     "id": "d-ecard3-2",
     "name": "Mind Machine",
+    "releaseDate": "2003/05/12",
+    "format": "Legal",
     "types": [
       "Grass",
       "Fire",

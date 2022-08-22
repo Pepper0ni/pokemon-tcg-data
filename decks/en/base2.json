@@ -2,6 +2,8 @@
   {
     "id": "d-base2-1",
     "name": "Water Blast",
+    "releaseDate": "1999/06/16",
+    "format": "Legal",
     "types": [
       "Water",
       "Fighting"
@@ -112,6 +114,8 @@
   {
     "id": "d-base2-2",
     "name": "Power Reserve",
+    "releaseDate": "1999/06/16",
+    "format": "Legal",
     "types": [
       "Psychic",
       "Grass"

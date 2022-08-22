@@ -2,6 +2,8 @@
   {
     "id": "d-neo1-1",
     "name": "Hotfoot",
+    "releaseDate": "2000/12/16",
+    "format": "Legal",
     "types": [
       "Grass",
       "Fire"
@@ -118,6 +120,8 @@
   {
     "id": "d-neo1-2",
     "name": "Cold Fusion",
+    "releaseDate": "2000/12/16",
+    "format": "Legal",
     "types": [
       "Lightning",
       "Water"

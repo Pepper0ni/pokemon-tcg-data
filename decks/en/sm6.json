@@ -2,6 +2,8 @@
   {
     "id": "d-sm6-1",
     "name": "Tropical Takedown",
+    "releaseDate": "2018/05/04",
+    "format": "Legal",
     "types": [
       "Grass"
     ],
@@ -204,6 +206,8 @@
   {
     "id": "d-sm6-2",
     "name": "Twilight Rogue",
+    "releaseDate": "2018/05/04",
+    "format": "Legal",
     "types": [
       "Fighting",
       "Psychic"

@@ -4,12 +4,12 @@
     "cards": [
       {
         "id": "swsh3-98",
-        "name": "Galarian Sirfetchd",
+        "name": "Galarian Sirfetch'd",
         "count": 3
       },
       {
         "id": "swsh2-94",
-        "name": "Galarian Farfetchd",
+        "name": "Galarian Farfetch'd",
         "count": 3
       },
       {
@@ -69,12 +69,12 @@
       },
       {
         "id": "swsh1-175",
-        "name": "Pokemon Catcher",
+        "name": "Pokémon Catcher",
         "count": 2
       },
       {
         "id": "swsh1-178",
-        "name": "Professors Research",
+        "name": "Professor's Research",
         "count": 2
       },
       {
@@ -179,7 +179,7 @@
       },
       {
         "id": "swsh1-178",
-        "name": "Professors Research",
+        "name": "Professor's Research",
         "count": 2
       },
       {

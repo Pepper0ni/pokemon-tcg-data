@@ -1,81 +1,96 @@
 [
   {
-    "name": "Ice Rider Calyrex VMAX League Battle Deck",
+    "name": "Zacian V League Battle Deck",
     "cards": [
       {
-        "id": "swsh6-46",
-        "name": "Ice Rider Calyrex VM AX",
-        "count": 3
-      },
-      {
-        "id": "swsh6-45",
-        "name": "Ice Rider Calyrex V",
-        "count": 3
-      },
-      {
-        "id": "swsh6-43",
-        "name": "Inteleon",
+        "id": "swsh1-138",
+        "name": "Zacian V",
         "count": 2
       },
       {
-        "id": "swsh1-58",
-        "name": "Inteleon",
+        "id": "sm12-156",
+        "name": "Arceus & Dialga & Palkia-GX",
+        "count": 1
+      },
+      {
+        "id": "sm9-99",
+        "name": "Jirachi",
+        "count": 4
+      },
+      {
+        "id": "swsh1-148",
+        "name": "Oranguru",
         "count": 2
       },
       {
-        "id": "swsh1-56",
-        "name": "Drizzile",
-        "count": 4
+        "id": "swsh1-128",
+        "name": "Galarian Perrserker",
+        "count": 1
       },
       {
-        "id": "swsh6-41",
-        "name": "Sobble",
-        "count": 4
+        "id": "swsh1-126",
+        "name": "Galarian Meowth",
+        "count": 1
       },
       {
-        "id": "swsh1-156",
-        "name": "Air Balloon",
+        "id": "sm10-75",
+        "name": "Mewtwo",
+        "count": 1
+      },
+      {
+        "id": "swsh1-158",
+        "name": "Big Charm",
+        "count": 1
+      },
+      {
+        "id": "swsh2-154",
+        "name": "Boss's Orders",
         "count": 2
       },
       {
-        "id": "sf-58",
-        "name": "Bosss Orders",
-        "count": 3
+        "id": "sm10-170",
+        "name": "Energy Spinner",
+        "count": 1
       },
       {
-        "id": "swsh2-156",
-        "name": "Capacious Bucket",
-        "count": 3
+        "id": "swsh1-162",
+        "name": "Energy Switch",
+        "count": 2
       },
       {
-        "id": "swsh1-163",
-        "name": "Evolution Incense",
-        "count": 3
+        "id": "sm12-192",
+        "name": "Great Catcher",
+        "count": 1
       },
       {
-        "id": "swsh5-129",
-        "name": "Level Ball",
-        "count": 4
+        "id": "sm12-193",
+        "name": "Guzma & Hala",
+        "count": 1
+      },
+      {
+        "id": "sm12-198",
+        "name": "Mallow & Lana",
+        "count": 1
       },
       {
         "id": "swsh1-169",
         "name": "Marnie",
-        "count": 2
-      },
-      {
-        "id": "swsh6-146",
-        "name": "Melony",
         "count": 4
       },
       {
-        "id": "swsh6-148",
-        "name": "Path to the Peak",
+        "id": "swsh1-170",
+        "name": "Metal Saucer",
         "count": 4
       },
       {
-        "id": "sf-60",
+        "id": "swsh1-171",
+        "name": "Ordinary Rod",
+        "count": 1
+      },
+      {
+        "id": "swsh1-178",
         "name": "Professor's Research",
-        "count": 2
+        "count": 4
       },
       {
         "id": "swsh1-179",
@@ -83,14 +98,39 @@
         "count": 4
       },
       {
+        "id": "swsh2-165",
+        "name": "Scoop Up Net",
+        "count": 3
+      },
+      {
         "id": "swsh1-183",
         "name": "Switch",
-        "count": 2
+        "count": 4
+      },
+      {
+        "id": "sm12-206",
+        "name": "Tag Call",
+        "count": 1
+      },
+      {
+        "id": "sm9-156",
+        "name": "Viridian Forest",
+        "count": 1
+      },
+      {
+        "id": "swsh1-186",
+        "name": "Aroura Energy",
+        "count": 1
+      },
+      {
+        "id": "sm1-171",
+        "name": "Metal Energy",
+        "count": 8
       },
       {
         "id": "sm1-166",
         "name": "Water Energy",
-        "count": 9
+        "count": 2
       }
     ]
   },
@@ -154,7 +194,7 @@
       },
       {
         "id": "swsh2-154",
-        "name": "Bosss Orders",
+        "name": "Boss's Orders",
         "count": 3
       },
       {
@@ -210,121 +250,6 @@
     ]
   },
   {
-    "name": "Single Strike Urshifu VMAX League Battle Deck",
-    "cards": [
-      {
-        "id": "swsh5-86",
-        "name": "Single Strike Urshifu VMAX",
-        "count": 2
-      },
-      {
-        "id": "swsh5-85",
-        "name": "Single Strike Urshifu V",
-        "count": 2
-      },
-      {
-        "id": "swsh5-96",
-        "name": "Houndoom",
-        "count": 3
-      },
-      {
-        "id": "swsh5-95",
-        "name": "Houndour",
-        "count": 4
-      },
-      {
-        "id": "swsh1-148",
-        "name": "Oranguru",
-        "count": 2
-      },
-      {
-        "id": "swsh5-84",
-        "name": "Stonjourner",
-        "count": 2
-      },
-      {
-        "id": "sf-58",
-        "name": "Bosss Orders",
-        "count": 2
-      },
-      {
-        "id": "swsh5-121",
-        "name": "Bruno",
-        "count": 1
-      },
-      {
-        "id": "swsh5-125",
-        "name": "Escape Rope",
-        "count": 2
-      },
-      {
-        "id": "swsh1-163",
-        "name": "Evolution Incense",
-        "count": 3
-      },
-      {
-        "id": "swsh1-169",
-        "name": "Marnie",
-        "count": 3
-      },
-      {
-        "id": "swsh1-171",
-        "name": "Ordinary Rod",
-        "count": 1
-      },
-      {
-        "id": "sf-60",
-        "name": "Professor's Research",
-        "count": 4
-      },
-      {
-        "id": "swsh1-179",
-        "name": "Quick Ball",
-        "count": 4
-      },
-      {
-        "id": "swsh5-133",
-        "name": "Single Strike Scroll of Scorn",
-        "count": 2
-      },
-      {
-        "id": "swsh1-183",
-        "name": "Switch",
-        "count": 2
-      },
-      {
-        "id": "swsh2-168",
-        "name": "Tool Scrapper",
-        "count": 1
-      },
-      {
-        "id": "swsh5-137",
-        "name": "Towerof Darkness",
-        "count": 4
-      },
-      {
-        "id": "swsh5-139",
-        "name": "Urnof Vitality",
-        "count": 4
-      },
-      {
-        "id": "sm1-169",
-        "name": "Fighting Energy",
-        "count": 4
-      },
-      {
-        "id": "swsh4-164",
-        "name": "Stone FEnergy",
-        "count": 4
-      },
-      {
-        "id": "swsh5-141",
-        "name": "Single Strike Energy",
-        "count": 4
-      }
-    ]
-  },
-  {
     "name": "Rapid Strike Urshifu VMAX League Battle Deck",
     "cards": [
       {
@@ -368,8 +293,8 @@
         "count": 3
       },
       {
-        "id": "sf-58",
-        "name": "Bosss Orders",
+        "id": "swsh45-58",
+        "name": "Boss's Orders",
         "count": 2
       },
       {
@@ -418,8 +343,8 @@
         "count": 1
       },
       {
-        "id": "sf-60",
-        "name": "Professors Research",
+        "id": "swsh45-60",
+        "name": "Professor's Research",
         "count": 3
       },
       {
@@ -454,7 +379,7 @@
       },
       {
         "id": "swsh4-164",
-        "name": "Stone F Energy",
+        "name": "Stone Fighting Energy",
         "count": 4
       },
       {
@@ -465,11 +390,221 @@
     ]
   },
   {
+    "name": "Single Strike Urshifu VMAX League Battle Deck",
+    "cards": [
+      {
+        "id": "swsh5-86",
+        "name": "Single Strike Urshifu VMAX",
+        "count": 2
+      },
+      {
+        "id": "swsh5-85",
+        "name": "Single Strike Urshifu V",
+        "count": 2
+      },
+      {
+        "id": "swsh5-96",
+        "name": "Houndoom",
+        "count": 3
+      },
+      {
+        "id": "swsh5-95",
+        "name": "Houndour",
+        "count": 4
+      },
+      {
+        "id": "swsh1-148",
+        "name": "Oranguru",
+        "count": 2
+      },
+      {
+        "id": "swsh5-84",
+        "name": "Stonjourner",
+        "count": 2
+      },
+      {
+        "id": "swsh45-58",
+        "name": "Boss's Orders",
+        "count": 2
+      },
+      {
+        "id": "swsh5-121",
+        "name": "Bruno",
+        "count": 1
+      },
+      {
+        "id": "swsh5-125",
+        "name": "Escape Rope",
+        "count": 2
+      },
+      {
+        "id": "swsh1-163",
+        "name": "Evolution Incense",
+        "count": 3
+      },
+      {
+        "id": "swsh1-169",
+        "name": "Marnie",
+        "count": 3
+      },
+      {
+        "id": "swsh1-171",
+        "name": "Ordinary Rod",
+        "count": 1
+      },
+      {
+        "id": "swsh45-60",
+        "name": "Professor's Research",
+        "count": 4
+      },
+      {
+        "id": "swsh1-179",
+        "name": "Quick Ball",
+        "count": 4
+      },
+      {
+        "id": "swsh5-133",
+        "name": "Single Strike Scroll of Scorn",
+        "count": 2
+      },
+      {
+        "id": "swsh1-183",
+        "name": "Switch",
+        "count": 2
+      },
+      {
+        "id": "swsh2-168",
+        "name": "Tool Scrapper",
+        "count": 1
+      },
+      {
+        "id": "swsh5-137",
+        "name": "Tower of Darkness",
+        "count": 4
+      },
+      {
+        "id": "swsh5-139",
+        "name": "Urn of Vitality",
+        "count": 4
+      },
+      {
+        "id": "sm1-169",
+        "name": "Fighting Energy",
+        "count": 4
+      },
+      {
+        "id": "swsh4-164",
+        "name": "Stone Fighting Energy",
+        "count": 4
+      },
+      {
+        "id": "swsh5-141",
+        "name": "Single Strike Energy",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "name": "Ice Rider Calyrex VMAX League Battle Deck",
+    "cards": [
+      {
+        "id": "swsh6-46",
+        "name": "Ice Rider Calyrex VMAX",
+        "count": 3
+      },
+      {
+        "id": "swsh6-45",
+        "name": "Ice Rider Calyrex V",
+        "count": 3
+      },
+      {
+        "id": "swsh6-43",
+        "name": "Inteleon",
+        "count": 2
+      },
+      {
+        "id": "swsh1-58",
+        "name": "Inteleon",
+        "count": 2
+      },
+      {
+        "id": "swsh1-56",
+        "name": "Drizzile",
+        "count": 4
+      },
+      {
+        "id": "swsh6-41",
+        "name": "Sobble",
+        "count": 4
+      },
+      {
+        "id": "swsh1-156",
+        "name": "Air Balloon",
+        "count": 2
+      },
+      {
+        "id": "swsh45-58",
+        "name": "Boss's Orders",
+        "count": 3
+      },
+      {
+        "id": "swsh2-156",
+        "name": "Capacious Bucket",
+        "count": 3
+      },
+      {
+        "id": "swsh1-163",
+        "name": "Evolution Incense",
+        "count": 3
+      },
+      {
+        "id": "swsh5-129",
+        "name": "Level Ball",
+        "count": 4
+      },
+      {
+        "id": "swsh1-169",
+        "name": "Marnie",
+        "count": 2
+      },
+      {
+        "id": "swsh6-146",
+        "name": "Melony",
+        "count": 4
+      },
+      {
+        "id": "swsh6-148",
+        "name": "Path to the Peak",
+        "count": 4
+      },
+      {
+        "id": "swsh45-60",
+        "name": "Professor's Research",
+        "count": 2
+      },
+      {
+        "id": "swsh1-179",
+        "name": "Quick Ball",
+        "count": 4
+      },
+      {
+        "id": "swsh1-183",
+        "name": "Switch",
+        "count": 2
+      },
+      {
+        "id": "sm1-166",
+        "name": "Water Energy",
+        "count": 9
+      }
+    ]
+  },
+  {
     "name": "Shadow Rider Calyrex VMAX League Battle Deck",
     "cards": [
       {
         "id": "swsh6-75",
-        "name": "Shadow Rider Calyrex VM AX",
+        "name": "Shadow Rider Calyrex VMAX",
         "count": 3
       },
       {
@@ -498,8 +633,8 @@
         "count": 2
       },
       {
-        "id": "sf-58",
-        "name": "Bosss Orders",
+        "id": "swsh45-58",
+        "name": "Boss's Orders",
         "count": 3
       },
       {
@@ -528,8 +663,8 @@
         "count": 1
       },
       {
-        "id": "sf-60",
-        "name": "Professors Research",
+        "id": "swsh45-60",
+        "name": "Professor's Research",
         "count": 4
       },
       {
